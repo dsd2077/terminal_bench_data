@@ -1,0 +1,2 @@
+2025-09-12__22-46-44_chaterm_sonnet4_two-phrase_0.5125.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
